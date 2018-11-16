@@ -298,7 +298,7 @@ footer > div {
         font-size: 30px;
     }
 }
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 500px) {
     .email{
         display: block;
         margin: 10px auto 0;
