@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Css/Style.css" line="51" />
+    <bookmark url="file://$PROJECT_DIR$/Css/Style.css" line="103" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c378f37-f5c6-41c8-b2cf-bd486cfc43ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/demo01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/demo02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/demo03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blade/slideshow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Js/MyJs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Js/MyScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blade/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blade/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Style.css" afterDir="false" />
@@ -28,48 +22,50 @@
     <session id="-1931853059">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="3" />
+          <entry key="css" value="5" />
           <entry key="html" value="5" />
           <entry key="jpg" value="2" />
           <entry key="js" value="3" />
-          <entry key="png" value="14" />
+          <entry key="png" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="3" />
+          <entry key="CSS" value="5" />
           <entry key="HTML" value="5" />
-          <entry key="Image" value="16" />
+          <entry key="Image" value="17" />
           <entry key="JavaScript" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1709" />
-          <entry key="html" value="2840" />
+          <entry key="css" value="2294" />
+          <entry key="html" value="3484" />
           <entry key="js" value="4246" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1709" />
-          <entry key="HTML" value="2840" />
+          <entry key="CSS" value="2294" />
+          <entry key="HTML" value="3484" />
           <entry key="JavaScript" value="4246" />
         </counts>
       </usages-collector>
@@ -88,30 +84,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Css/Style.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Blade/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+            <state relative-caret-position="340">
+              <caret line="27" column="32" lean-forward="true" selection-end-line="153" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Blade/Index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Css/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2960">
-              <caret line="148" column="41" selection-start-line="148" selection-start-column="41" selection-end-line="148" selection-end-column="41" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="670">
+              <caret line="296" selection-start-line="296" selection-end-line="296" />
             </state>
           </provider>
         </entry>
@@ -134,10 +124,27 @@
       <find>margin-top</find>
       <find>59</find>
       <find>Header</find>
-      <find>title</find>
       <find>count</find>
       <find>coutn</find>
       <find>n</find>
+      <find>article</find>
+      <find>.banner</find>
+      <find>border</find>
+      <find>item</find>
+      <find>article-foote</find>
+      <find>col-sm</find>
+      <find>@</find>
+      <find>article-</find>
+      <find>content-foo</find>
+      <find>.a</find>
+      <find>footer</find>
+      <find>article-content</find>
+      <find>title-</find>
+      <find>title</find>
+      <find>btn</find>
+      <find>cou</find>
+      <find>arti</find>
+      <find>countdown_timer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -146,12 +153,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Blade/Index.html" />
-        <option value="$PROJECT_DIR$/Css/Style.css" />
         <option value="$PROJECT_DIR$/Js/slideshow.html" />
         <option value="$PROJECT_DIR$/Blade/slideshow.html" />
         <option value="$PROJECT_DIR$/Js/MyJs.js" />
         <option value="$PROJECT_DIR$/Js/MyScript.js" />
+        <option value="$PROJECT_DIR$/Blade/Index.html" />
+        <option value="$PROJECT_DIR$/Css/Style.css" />
       </list>
     </option>
   </component>
@@ -184,17 +191,7 @@
             <path>
               <item name="Exercise_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise_2" type="462c0819:PsiDirectoryNode" />
-              <item name="Blade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise_2" type="462c0819:PsiDirectoryNode" />
               <item name="Css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise_2" type="462c0819:PsiDirectoryNode" />
-              <item name="Js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,11 +207,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Le Thanh Tung\WebstormProjects\Exercise_2\Blade" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Le Thanh Tung\WebstormProjects\Exercise_2\Assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Le Thanh Tung\WebstormProjects\Exercise_2\Blade" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -254,11 +251,14 @@
       <workItem from="1541995300065" duration="15287000" />
       <workItem from="1542079445957" duration="1292000" />
       <workItem from="1542097548003" duration="652000" />
+      <workItem from="1542114272451" duration="270000" />
+      <workItem from="1542179619242" duration="1229000" />
+      <workItem from="1542340606521" duration="10650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63594000" />
+    <option name="totallyTimeSpent" value="75743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -276,7 +276,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32152975" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,9 +318,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/Footer_banner.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Article.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Article00.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -356,6 +353,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Article.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Js/MyJs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -365,24 +365,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Css/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="80" column="19" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+        <state relative-caret-position="670">
+          <caret line="296" selection-start-line="296" selection-end-line="296" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Blade/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2960">
-          <caret line="148" column="41" selection-start-line="148" selection-start-column="41" selection-end-line="148" selection-end-column="41" />
+        <state relative-caret-position="340">
+          <caret line="27" column="32" lean-forward="true" selection-end-line="153" selection-end-column="7" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

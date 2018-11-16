@@ -1,49 +1,90 @@
-*{
+* {
     margin: 0;
     box-sizing: border-box;
 }
+
 .row::after {
     content: "";
     clear: both;
     display: table;
 }
+
 [class*="col-"] {
     float: left;
     padding: 5px;
 }
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 25%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
-.col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
-.col-12 {width: 100%;}
 
-.article img{
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
     width: 100%;
 }
-.container{
-    margin:0 15%;
+
+.article img {
+    width: 100%;
+}
+
+.container {
+    margin: 0 15%;
     /*360*/
 }
-body{
+
+body {
     font-family: 'Roboto';
 }
 
 /*header*/
-header{
+header {
     background-image: url("../Assets/Banner.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
     height: 650px;
 }
-header .title-banner{
+
+header .title-banner {
     color: white;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
@@ -51,16 +92,19 @@ header .title-banner{
     font-weight: lighter;
     font-size: 30px;
 }
-header .title{
+
+header .title {
     color: white;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 65px;
 }
-header .title span{
+
+header .title span {
     display: block;
 }
-.btn_booknow{
+
+.btn_booknow {
     width: 160px;
     height: 50px;
     cursor: pointer;
@@ -69,7 +113,8 @@ header .title span{
     font-size: 16px;
     color: white;
 }
-.countdown{
+
+.countdown {
     font-size: 65px;
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
@@ -77,9 +122,11 @@ header .title span{
     text-align: center;
     margin: auto;
 }
-.timer{
+
+.timer {
     margin-right: 20px;
 }
+
 .countdown .countdown_timer {
     width: 50%;
     margin: auto;
@@ -90,14 +137,17 @@ header .title span{
     box-shadow: 10px 10px 5px rgba(12, 12, 12, 0.23);
 
 }
-.countdown_timer label{
+
+.countdown_timer label {
     font-size: medium;
 }
-.email{
+
+.email {
     width: 150px;
     padding: 5px
 }
-.btn_submit{
+
+.btn_submit {
     background: #FFE400;
     color: #070707;
     border: none;
@@ -107,72 +157,89 @@ header .title span{
 }
 
 /*content*/
-.article{
+.article {
     padding: 60px 0;
 
 }
+
+.month-year {
+    text-align: right;
+    padding-right: 10px
+}
+
 .article .content p {
     margin-bottom: 15px;
 }
-.article .title{
+
+.article .title {
     transform: none;
     font-size: 40px;
     color: black;
 }
-.article .title:last-child{
+
+.article .title:last-child {
     transform: none;
     color: black;
     font-size: 16px;
 }
-.item{
-    display: inline-block;
+
+.item {
+    display: flex;
 }
-.article .item div:first-child{
+
+.article .item div:first-child {
     margin-right: 10px;
 }
+
 .month {
     font-size: 35px;
 }
-.year{
+
+.year {
     margin-top: 10px;
     font-size: 50px;
     color: #0190FF;
 }
 
+.mt {
+    margin-left: 8px;
+}
+
 /*footer*/
-footer{
-    background-image: url("../Assets/Footer_banner.png") ;
+footer {
+    background-image: url("../Assets/Footer_banner.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 500px;
     font-family: 'Roboto';
 }
-footer>div{
-    background-color: rgba(0, 0, 0, 0.5);
-    height: 500px;
-}
-.article-footer{
-    width: 50%;
-    padding-bottom: 90px;
 
+footer > div {
+    background-color: rgba(0, 0, 0, 0.5);
 }
+
 .article-title {
     color: #0090FF;
     font-size: 35px;
     font-weight: bold;
 }
-.article-content{
+.article .title{
+    font-weight: bold
+}
+
+.article-content {
     margin-top: 20px;
     color: white;
     font-size: 18px;
 
 }
+
 .info-user p {
     color: white;
-    padding: 10px 0 5px 0 ;
+    padding: 10px 0 5px 0;
 }
-.info-user>.btn_submit {
+
+.info-user > .btn_submit {
     font-weight: bold;
     margin: 20px 0 0 0;
     border-radius: 5px;
@@ -180,17 +247,66 @@ footer>div{
     height: 50px;
     font-size: 20px;
 }
-.content-footer{
-    padding-top: 40px;
-    border-bottom: 1px solid #636D75;
 
+.content-footer {
+    padding: 40px 0;
+    border-bottom: 1px solid #636D75;
 }
-.social{
+
+.social {
     padding-top: 20px;
     border: none;
 }
-.social .article-content{
+
+.social .article-content {
     color: #636D75;
     margin-top: 10px;
 }
 
+.input-info {
+    width: 390px;
+    height: 34px
+}
+
+@media only screen and (max-width: 768px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+
+    .banner {
+        display: none;
+    }
+
+    .input-info {
+        width: 100%;
+        height: 34px
+    }
+    .month-year{
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .countdown .countdown_timer{
+        width: 80%;
+
+    }
+    .title-banner{
+        font-size: 25px;
+    }
+
+    .article .title{
+        font-size: 30px;
+    }
+}
+@media only screen and (max-width: 360px) {
+    .email{
+        display: block;
+        margin: 10px auto 0;
+    }
+    .countdown{
+        font-size: 40px;
+    }
+    header .title{
+        font-size: 50px;
+    }
+}
