@@ -3,15 +3,16 @@
     box-sizing: border-box;
 }
 
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -10px;
+    margin-left: -10px;
 }
 
 [class*="col-"] {
-    float: left;
-    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .col-1 {
@@ -64,11 +65,14 @@
 
 .article img {
     width: 100%;
+    height: auto;
 }
 
 .container {
-    margin: 0 15%;
-    /*360*/
+    width: 100%;
+    margin: auto;
+    max-width: 1000px;
+
 }
 
 body {
@@ -185,10 +189,11 @@ header .title span {
 
 .item {
     display: flex;
+
 }
 
-.article .item div:first-child {
-    margin-right: 10px;
+.item > a {
+    width: 100%;
 }
 
 .month {
@@ -223,7 +228,8 @@ footer > div {
     font-size: 35px;
     font-weight: bold;
 }
-.article .title{
+
+.article .title {
     font-weight: bold
 }
 
@@ -281,32 +287,42 @@ footer > div {
         width: 100%;
         height: 34px
     }
-    .month-year{
+
+    .month-year {
         text-align: center;
         margin-top: 50px;
     }
 
-    .countdown .countdown_timer{
+    .countdown .countdown_timer {
         width: 80%;
 
     }
-    .title-banner{
+
+    .title-banner {
         font-size: 25px;
     }
 
-    .article .title{
+    .article .title {
         font-size: 30px;
     }
 }
+
 @media only screen and (max-width: 500px) {
-    .email{
+    .email {
         display: block;
         margin: 10px auto 0;
     }
-    .countdown{
+
+    [class*="col-"] {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .countdown {
         font-size: 40px;
     }
-    header .title{
+
+    header .title {
         font-size: 50px;
     }
 }

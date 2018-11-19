@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Css/Style.css" line="103" />
+    <bookmark url="file://$PROJECT_DIR$/Css/Style.css" line="107" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c378f37-f5c6-41c8-b2cf-bd486cfc43ec" name="Default Changelist" comment="" />
+    <list default="true" id="1c378f37-f5c6-41c8-b2cf-bd486cfc43ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blade/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blade/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Style.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,10 +22,10 @@
     <session id="-1931853059">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="2" />
@@ -31,13 +35,13 @@
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="5" />
-          <entry key="html" value="5" />
+          <entry key="html" value="6" />
           <entry key="jpg" value="2" />
           <entry key="js" value="3" />
           <entry key="png" value="15" />
@@ -46,22 +50,22 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="5" />
-          <entry key="HTML" value="5" />
+          <entry key="HTML" value="6" />
           <entry key="Image" value="17" />
           <entry key="JavaScript" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2294" />
-          <entry key="html" value="3488" />
+          <entry key="css" value="2628" />
+          <entry key="html" value="3524" />
           <entry key="js" value="4246" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2294" />
-          <entry key="HTML" value="3488" />
+          <entry key="CSS" value="2628" />
+          <entry key="HTML" value="3524" />
           <entry key="JavaScript" value="4246" />
         </counts>
       </usages-collector>
@@ -72,19 +76,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Js/MyJs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Blade/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+            <state relative-caret-position="125">
+              <caret line="68" column="31" lean-forward="true" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -93,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Css/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="863">
-              <caret line="310" column="5" lean-forward="true" selection-start-line="310" selection-start-column="5" selection-end-line="310" selection-end-column="5" />
+            <state relative-caret-position="570">
+              <caret line="321" column="5" selection-start-line="321" selection-start-column="5" selection-end-line="321" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -115,18 +110,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>box-sizing: border-box;</find>
-      <find>conta</find>
-      <find>margin-top</find>
-      <find>59</find>
-      <find>Header</find>
-      <find>count</find>
       <find>coutn</find>
       <find>n</find>
       <find>article</find>
       <find>.banner</find>
       <find>border</find>
-      <find>item</find>
       <find>article-foote</find>
       <find>col-sm</find>
       <find>@</find>
@@ -141,6 +129,17 @@
       <find>cou</find>
       <find>arti</find>
       <find>countdown_timer</find>
+      <find>contai</find>
+      <find>image{</find>
+      <find>container</find>
+      <find>img</find>
+      <find>image-i</find>
+      <find>col-</find>
+      <find>item</find>
+      <find>col</find>
+      <find>banner</find>
+      <find>row</find>
+      <find>conta</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,8 +152,8 @@
         <option value="$PROJECT_DIR$/Blade/slideshow.html" />
         <option value="$PROJECT_DIR$/Js/MyJs.js" />
         <option value="$PROJECT_DIR$/Js/MyScript.js" />
-        <option value="$PROJECT_DIR$/Css/Style.css" />
         <option value="$PROJECT_DIR$/Blade/Index.html" />
+        <option value="$PROJECT_DIR$/Css/Style.css" />
       </list>
     </option>
   </component>
@@ -176,7 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,12 +185,23 @@
             <path>
               <item name="Exercise_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Blade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise_2" type="462c0819:PsiDirectoryNode" />
               <item name="Css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,18 +258,19 @@
       <workItem from="1542097548003" duration="652000" />
       <workItem from="1542114272451" duration="270000" />
       <workItem from="1542179619242" duration="1229000" />
-      <workItem from="1542340606521" duration="10900000" />
+      <workItem from="1542340606521" duration="11555000" />
+      <workItem from="1542611812698" duration="6010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75993000" />
+    <option name="totallyTimeSpent" value="82658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1526768" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1526768" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -272,7 +282,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32152975" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31161472" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -342,13 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blade/slideshow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Article.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -359,21 +362,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Css/Style.css">
+    <entry file="file://$PROJECT_DIR$/Blade/slideshow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="863">
-          <caret line="310" column="5" lean-forward="true" selection-start-line="310" selection-start-column="5" selection-end-line="310" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Blade/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        <state relative-caret-position="125">
+          <caret line="68" column="31" lean-forward="true" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Css/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="321" column="5" selection-start-line="321" selection-start-column="5" selection-end-line="321" selection-end-column="5" />
         </state>
       </provider>
     </entry>
