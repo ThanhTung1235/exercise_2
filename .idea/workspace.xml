@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/Css/Style.css" line="40" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c378f37-f5c6-41c8-b2cf-bd486cfc43ec" name="Default Changelist" comment="" />
+    <list default="true" id="1c378f37-f5c6-41c8-b2cf-bd486cfc43ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/Style.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,11 +30,12 @@
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,14 +57,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="3492" />
+          <entry key="css" value="3497" />
           <entry key="html" value="4367" />
           <entry key="js" value="4250" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3492" />
+          <entry key="CSS" value="3497" />
           <entry key="HTML" value="4367" />
           <entry key="JavaScript" value="4250" />
         </counts>
@@ -72,29 +75,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Blade/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-680">
-              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+            <state relative-caret-position="-1933">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Js/MyScript.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Css/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="303" column="1" selection-start-line="303" selection-start-column="1" selection-end-line="303" selection-end-column="1" />
+            <state relative-caret-position="67">
+              <caret line="291" column="20" selection-start-line="291" selection-start-column="20" selection-end-line="291" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -156,8 +150,8 @@
         <option value="$PROJECT_DIR$/Js/MyScript.js" />
         <option value="$PROJECT_DIR$/Blade/Test.html" />
         <option value="$PROJECT_DIR$/Css/Test.css" />
-        <option value="$PROJECT_DIR$/Css/Style.css" />
         <option value="$PROJECT_DIR$/Blade/Index.html" />
+        <option value="$PROJECT_DIR$/Css/Style.css" />
       </list>
     </option>
   </component>
@@ -179,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,7 +200,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,14 +259,16 @@
       <workItem from="1542340606521" duration="11555000" />
       <workItem from="1542611812698" duration="13890000" />
       <workItem from="1542639571318" duration="8151000" />
+      <workItem from="1542686916068" duration="302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98689000" />
+    <option name="totallyTimeSpent" value="98991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1526768" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -286,7 +282,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31161472" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32294616" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -366,6 +362,15 @@
     <entry file="file://$PROJECT_DIR$/Assets/Article01.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Blade/Test.html" />
+    <entry file="file://$PROJECT_DIR$/Css/Test.css" />
+    <entry file="file://$PROJECT_DIR$/Blade/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1933">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Js/MyScript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -373,31 +378,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blade/Test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="77" column="14" lean-forward="true" selection-end-line="132" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Css/Test.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="202" column="10" lean-forward="true" selection-end-line="303" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Css/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="303" column="1" selection-start-line="303" selection-start-column="1" selection-end-line="303" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blade/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-680">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        <state relative-caret-position="67">
+          <caret line="291" column="20" selection-start-line="291" selection-start-column="20" selection-end-line="291" selection-end-column="20" />
         </state>
       </provider>
     </entry>
